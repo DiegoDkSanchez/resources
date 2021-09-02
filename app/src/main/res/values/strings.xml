@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="title">App Title</string>
+    <string name="description">This application will be complete using resources</string>
+</resources>
